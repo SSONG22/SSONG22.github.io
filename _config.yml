@@ -89,3 +89,5 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
+
+category_list: [diary, test]
